@@ -4,7 +4,8 @@
 
   <br>
   <h3> 💻 I’m currently learning ... </h3> 
-    <p> Framework : <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-sqare&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Data_Jpa-6DB33F?style=flat-sqare&logo=spring&logoColor=white"></li>
+    <p> Framework : <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-sqare&logo=spring&logoColor=white"></p>
+    <p> ORM : <img src="https://img.shields.io/badge/Spring_Data_Jpa-6DB33F?style=flat-sqare&logo=spring&logoColor=white"></p>
     <p> Security : <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-sqare&logo=Spring-Security&logoColor=white"></p>
     <p> Language : <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-sqare&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-sqare&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-sqare&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-sqare&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-sqare&logo=html5&logoColor=white"></p>
     <p> Database : <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-sqare&logo=mysql&logoColor=white"></p>
