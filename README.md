@@ -1,7 +1,7 @@
 ## Yu Sang Gon
 Hopefully Desire Back-End Developer
 
-<div align="center">
+
 ### 💻 I’m currently learning ... 
 * Framework : ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_Jpa-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 * Security : ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
@@ -27,7 +27,7 @@ Hopefully Desire Back-End Developer
 
 ### Github stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuSangGon&show_icons=true&theme=shadow_blue)
-</div>
+
 
 
 <!--
