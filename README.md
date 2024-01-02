@@ -1,4 +1,18 @@
-### Hi there 👋
+## Yu Sang Gon
+Hopefully Desire Back-End Developer
+
+
+### Github stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuSangGon&show_icons=true&theme=shadow_blue)
+
+
+### 💻 I’m currently learning ... 
+* Web Framework : https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white 
+
+
+### 📫 How to contact me ...
+* 📧 : yusang5159@gmail.com
+* 📱 : +82) 010-5159-9859
 
 <!--
 **YuSangGon/YuSangGon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
