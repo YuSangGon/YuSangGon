@@ -19,7 +19,7 @@
   <br>
   <h3> 📓 My Blog </h3>
     <p>
-      기술 블로그 : <a href="https://codingralro.tistory.com">코딩하는 랄로</a>
+      <a href="https://codingralro.tistory.com">코딩하는 랄로</a>
     </p>
 
   <br>
