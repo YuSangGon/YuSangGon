@@ -4,11 +4,11 @@
 
   <br>
   <h3> 💻 I’m currently learning ... </h3> 
-    <p> Framework : <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Data_Jpa-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></li>
-    <p> Security : <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white"></p>
-    <p> Language : <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></p>
-    <p> Database : <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></p>
-    <p> VCS : <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></p>
+    <p> Framework : <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-sqare&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Data_Jpa-6DB33F?style=flat-sqare&logo=spring&logoColor=white"></li>
+    <p> Security : <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-sqare&logo=Spring-Security&logoColor=white"></p>
+    <p> Language : <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-sqare&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-sqare&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-sqare&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-sqare&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-sqare&logo=html5&logoColor=white"></p>
+    <p> Database : <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-sqare&logo=mysql&logoColor=white"></p>
+    <p> VCS : <img src="https://img.shields.io/badge/GIT-E44C30?style=flat-sqare&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=flat-sqare&logo=github&logoColor=white"></p>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuSangGon&theme=blue-gree">
 
