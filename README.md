@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=d9ead3&height=300&section=header&text=YuSangGon's%20Profile&desc=Hopefully%20Desire%20Back-End%20Developer&fontSize=40&descSize=15&fontAlignY=40" />
 
   <br>
-  <h3> 💻 I’m currently learning ... </h3> 
+  <h2> 💻 I’m currently learning ... </h2> 
     <p> Framework : <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-sqare&logo=spring&logoColor=white"></p>
     <p> ORM : <img src="https://img.shields.io/badge/Spring_Data_Jpa-6DB33F?style=flat-sqare&logo=spring&logoColor=white"></p>
     <p> Security : <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-sqare&logo=Spring-Security&logoColor=white"></p>
@@ -14,17 +14,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuSangGon&theme=blue-gree">
 
   <br>
-  <h3> 📝 Projects I've done ... </h3>
+  <h2> 📝 Projects I've done ... </h2>
   <a href="https://github.com/YuSangGon/portfolio">Show YuSangGon's portfolio</a>
 
   <br>
-  <h3> 📓 My Blog </h3>
+  <h2> 📓 My Blog </h2>
     <p>
       <a href="https://codingralro.tistory.com">코딩하는 랄로</a>
     </p>
 
   <br>
-  <h3> 📫 How to contact me ... </h3>
+  <h2> 📫 How to contact me ... </h2>
     <p>📧 : yusang5159@gmail.com</p>
     <p>📱 : +82) 010-5159-9859</p>
 
