@@ -18,17 +18,12 @@
 <p>
 <a href="https://codingralro.tistory.com">코딩하는 랄로</a>
 </p>
-<a href='https://codingralro.tistory.com/265'>2024/1/4 - [Git] Merge 기초</a>
-<a href='https://codingralro.tistory.com/264'>2024/1/3 - [Git] checkout</a>
-<a href='https://codingralro.tistory.com/263'>2024/1/2 - [토비의 스프링] Singleton Registry에 대한 이해</a>
-<a href='https://codingralro.tistory.com/262'>2024/1/2 - [Git] branch 생성</a>
-<a href='https://codingralro.tistory.com/261'>2023/12/31 - [Git] remote</a>
-<a href='https://codingralro.tistory.com/260'>2023/12/27 - [Git] 되돌리기</a>
-<a href='https://codingralro.tistory.com/259'>2023/12/20 - [Git] log</a>
-<a href='https://codingralro.tistory.com/258'>2023/12/20 - [Git] mv</a>
-<a href='https://codingralro.tistory.com/257'>2023/12/14 - [Git] rm</a>
-<a href='https://codingralro.tistory.com/256'>2023/12/5 - [Git] Commit</a>
-<a href='https://codingralro.tistory.com/255'>2023/12/4 - [Git] diff</a>
+<a href='https://codingralro.tistory.com/265'>2024/1/4 - [Git] Merge 기초</a><br>
+<a href='https://codingralro.tistory.com/264'>2024/1/3 - [Git] checkout</a><br>
+<a href='https://codingralro.tistory.com/263'>2024/1/2 - [토비의 스프링] Singleton Registry에 대한 이해</a><br>
+<a href='https://codingralro.tistory.com/262'>2024/1/2 - [Git] branch 생성</a><br>
+<a href='https://codingralro.tistory.com/261'>2023/12/31 - [Git] remote</a><br>
+<a href='https://codingralro.tistory.com/260'>2023/12/27 - [Git] 되돌리기</a><br>
 
 <br>
 <h3> 📫 How to contact me ... </h3>
