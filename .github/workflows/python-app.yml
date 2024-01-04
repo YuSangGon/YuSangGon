@@ -35,7 +35,7 @@ jobs:
     - name: Update README.md file
       run: |
         git pull
-        git add
+        git add .
         git diff
         git config --local user.email "yusang5159@naver.com"
         git config --local user.name "YuSangGon"
