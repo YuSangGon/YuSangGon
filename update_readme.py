@@ -30,9 +30,9 @@ markdown_text = """
 <a href="https://github.com/YuSangGon/portfolio">Show YuSangGon's portfolio</a>
 <br>
 <h3> 📓 My Blog </h3>
-<p>
 <a href="https://codingralro.tistory.com">코딩하는 랄로</a>
-</p>
+<br>
+<h4>⭐ Latest Blog Post ⭐</h4>
 """
 
 end_text = """
