@@ -13,7 +13,7 @@ for idx, feed in enumerate(rss_feed['entries']):
     feed_date = feed['published_parsed']
     latest_blog_post_list += f"[{feed_date.tm_year}/{feed_date.tm_mon}/{feed_date.tm_mday} - {feed['title']}]({feed['link']}) <br>\n"
     
-markdown_text = `
+markdown_text = """
   <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=d9ead3&height=300&section=header&text=YuSangGon's%20Profile&desc=Hopefully%20Desire%20Back-End%20Developer&fontSize=40&descSize=15&fontAlignY=40" />
   
@@ -37,16 +37,16 @@ markdown_text = `
       <p>
         <a href="https://codingralro.tistory.com">코딩하는 랄로</a>
       </p>
-`
+"""
     
 
-end_text = `
+end_text = """
     <br>
         <h3> 📫 How to contact me ... </h3>
           <p>📧 : yusang5159@gmail.com</p>
           <p>📱 : +82) 010-5159-9859</p>
     </div>
-`
+"""
 
 readme_text = f"{markdown_text}{latest_blog_post_list}{end_text}"
 
