@@ -18,12 +18,12 @@
 <a href="https://codingralro.tistory.com">코딩하는 랄로</a>
 <br>
 <h4>⭐ Latest Blog Post ⭐</h4>
+<a href='https://codingralro.tistory.com/266'>2024/1/5 - JPA 란</a><br>
 <a href='https://codingralro.tistory.com/265'>2024/1/4 - [Git] Merge 기초</a><br>
 <a href='https://codingralro.tistory.com/264'>2024/1/3 - [Git] checkout</a><br>
 <a href='https://codingralro.tistory.com/263'>2024/1/2 - [토비의 스프링] Singleton Registry에 대한 이해</a><br>
 <a href='https://codingralro.tistory.com/262'>2024/1/2 - [Git] branch 생성</a><br>
 <a href='https://codingralro.tistory.com/261'>2023/12/31 - [Git] remote</a><br>
-<a href='https://codingralro.tistory.com/260'>2023/12/27 - [Git] 되돌리기</a><br>
 
 <br>
 <h3> 📫 How to contact me ... </h3>
