@@ -18,12 +18,12 @@
 <a href="https://codingralro.tistory.com">코딩하는 랄로</a>
 <br>
 <h4>⭐ Latest Blog Post ⭐</h4>
+<a href='https://codingralro.tistory.com/272'>2024/1/9 - [Git] branch workflow</a><br>
 <a href='https://codingralro.tistory.com/271'>2024/1/8 - [Git] branch 관리</a><br>
 <a href='https://codingralro.tistory.com/270'>2024/1/8 - [Spring Boot] Controller</a><br>
 <a href='https://codingralro.tistory.com/269'>2024/1/8 - [Spring Boot] 게시판 목록 페이지</a><br>
 <a href='https://codingralro.tistory.com/268'>2024/1/8 - [Spring Boot] MVC pattern</a><br>
 <a href='https://codingralro.tistory.com/267'>2024/1/8 - [Git] Conflict 기초</a><br>
-<a href='https://codingralro.tistory.com/266'>2024/1/5 - JPA 란</a><br>
 
 <br>
 <h3> 📫 How to contact me ... </h3>
