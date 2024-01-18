@@ -18,12 +18,12 @@
 <a href="https://codingralro.tistory.com">코딩하는 랄로</a>
 <br>
 <h4>⭐ Latest Blog Post ⭐</h4>
+<a href='https://codingralro.tistory.com/282'>2024/1/17 - [Git] Push</a><br>
+<a href='https://codingralro.tistory.com/281'>2024/1/17 - JPA Auditing</a><br>
 <a href='https://codingralro.tistory.com/280'>2024/1/16 - [JSP] JSP란</a><br>
 <a href='https://codingralro.tistory.com/279'>2024/1/16 - 기본 CRUD - Create & Update</a><br>
 <a href='https://codingralro.tistory.com/278'>2024/1/16 - 기본 CRUD - DELETE</a><br>
 <a href='https://codingralro.tistory.com/277'>2024/1/16 - 기본 CRUD - READ</a><br>
-<a href='https://codingralro.tistory.com/276'>2024/1/15 - JPA Repository - 개념</a><br>
-<a href='https://codingralro.tistory.com/275'>2024/1/11 - [Git] remote tracking branch</a><br>
 
 <br>
 <h3> 📫 How to contact me ... </h3>
