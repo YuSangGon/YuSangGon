@@ -15,7 +15,8 @@
 <a href="https://github.com/YuSangGon/portfolio">Show YuSangGon's portfolio</a>
 <br>
 <h3> 📓 My Blog </h3>
-<a href="https://codingralro.tistory.com">코딩하는 랄로</a>
+<a href="https://codingralro.tistory.com">코딩하는 랄로[tistory]</a><br>
+<a href="https://yusanggon.github.io">코딩하는 랄로[github.io]</a>
 <br>
 <h4>⭐ Latest Blog Post ⭐</h4>
 <a href='https://codingralro.tistory.com/286'>2024/1/30 - [Spring Security] 기본 설정 파일 생성</a><br>
